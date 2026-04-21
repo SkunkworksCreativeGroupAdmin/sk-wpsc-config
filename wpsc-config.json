@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Skunkworks Creative Group — Standard WP Super Cache configuration. Increment version to trigger a re-sync on all managed sites.",
   "settings": {
     "cache_compression": 0,
