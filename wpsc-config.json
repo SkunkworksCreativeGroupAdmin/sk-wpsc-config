@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "description": "Skunkworks Creative Group — Standard WP Super Cache configuration. Increment version to trigger a re-sync on all managed sites.",
   "settings": {
-    "cache_compression": 1,
+    "cache_compression": 0,
     "cache_max_time": 1800,
     "cache_time_interval": 600,
     "cache_rebuild_files": 1,
