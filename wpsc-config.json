@@ -4,7 +4,7 @@
   "settings": {
     "cache_compression": 0,
     "cache_max_time": 86400,
-    "cache_time_interval": 600,
+    "cache_time_interval": 3600,
     "cache_rebuild_files": 1,
     "wp_cache_mutex_disabled": 1,
     "wp_cache_shutdown_gc": 0,
