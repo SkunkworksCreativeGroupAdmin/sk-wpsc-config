@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Skunkworks Creative Group — Standard WP Super Cache configuration. Increment version to trigger a re-sync on all managed sites. v1.0.3 disables GZip compression as a ServerPilot specific performance boost.",
   "settings": {
     "cache_compression": 0,
