@@ -15,7 +15,7 @@
     "wp_super_cache_front_page_check": 0,
     "wp_super_cache_front_page_notification": "0",
     "wp_cache_anon_only": 0,
-    "wp_supercache_cache_list": 1,
+    "wp_supercache_cache_list": 0,
     "wp_cache_debug_to_file": 0,
     "wp_super_cache_debug": 0,
     "wp_cache_debug_level": 5,
