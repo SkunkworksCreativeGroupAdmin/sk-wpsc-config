@@ -47,7 +47,7 @@
     "wp_cache_disable_utf8": 0,
     "wp_cache_no_cache_for_get": 1,
     "wp_cache_preload_on": 1,
-    "wp_cache_preload_interval": 600,
+    "wp_cache_preload_interval": 720,
     "wp_cache_preload_posts": "all",
     "wp_cache_preload_taxonomies": 1,
     "wp_cache_preload_email_me": 0,
